@@ -1,0 +1,23 @@
+{
+    "font_family": "Arial",
+    "font_size": 12,
+    "text_color": "#ffffff",
+    "bg_color": "#000000",
+    "opacity": 0.9,
+    "auto_size": true,
+    "overlay_position": [
+        1291,
+        445
+    ],
+    "overlay_size": [
+        110,
+        39
+    ],
+    "dark_mode": false,
+    "last_timer": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 0
+    }
+}

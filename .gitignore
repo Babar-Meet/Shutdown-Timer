@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.env
+
+# Compiled executable
+*.exe
+*.spec
+dist/
+build/
+__pycache__/
+
+# Temporary files
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+*.txt
+
+# Configuration
+config.local.json
