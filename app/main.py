@@ -488,7 +488,7 @@ class ShutdownTimerApp:
             self.save_config()
             
             # Perform shutdown
-            os.system("shutdown /s /t 5")
+            os.system("shutdown /s /f /t 0")
             
         except Exception as e:
             print(f"Shutdown error: {e}")
